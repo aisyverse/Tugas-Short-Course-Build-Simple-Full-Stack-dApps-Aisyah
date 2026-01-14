@@ -68,3 +68,4 @@ async function connectWallet() {
 }
 
 connectBtn.addEventListener("click", connectWallet);
+
