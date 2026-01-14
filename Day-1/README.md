@@ -356,3 +356,4 @@ Di Day 2, kita akan:
 
 🔥 **Happy building!**
 Besok kita mulai masuk ke **smart contract & Solidity** 🚀
+
